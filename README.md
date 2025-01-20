@@ -1,5 +1,5 @@
 #### 🍁Hey! I’m Sujit Panda.
-#### 🌱I'm interested in Web Development and UI & UX designing.
+#### 🌱I am a front-end developer.
 #### 💞️I love to build and design projects.
 #### 
 
