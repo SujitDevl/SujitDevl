@@ -1,5 +1,5 @@
 #### 🍁Hey! I’m Sujit Panda.
-#### 🌱I am a front-end developer.
+#### 🌱I am a Front-end developer.
 #### 💞️I love to build and design projects.
 #### 
 
