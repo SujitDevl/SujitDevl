@@ -1,6 +1,6 @@
-#### 🍁Hey! I’m Sujit Panda
-#### 🌱Aspiring Software developer
-#### 💞️I love to build and design projects
+#### 🍀Hey! I’m Sujit Panda
+#### 🌱Aspiring Software Developer
+#### 🐢I love to build and design projects
 #### 🤍Less bugs, more vibes.
 
 
