@@ -5,13 +5,13 @@ Frontend Developer • React • UI Enthusiast 🚀
 
 ---
 
-### 👨‍💻 About Me
+### 😊 About Me
 I build **modern, responsive web interfaces** with a strong focus on clean UI, reusable components, and real-world frontend patterns.  
 Currently growing from **React → Next.js → TypeScript**, while exploring APIs and production-ready workflows.
 
 ---
 
-### 🛠 Tech Stack
+### 🌴 Tech Stack
 <p align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs" />
@@ -25,19 +25,7 @@ Currently growing from **React → Next.js → TypeScript**, while exploring API
 
 ---
 
-### 🔥 Featured Projects
-- ☕ **Cafe Grind** — React café website with dynamic menu, cart preview & theme toggle  
-- 🧩 **CodePen Clone** — Live HTML/CSS/JS editor with real-time preview  
-- 🏏 **Cricket Management System** — Full-stack CRUD application
 
----
-
-### 🌱 Currently Learning
-- Next.js routing & data fetching  
-- TypeScript for scalable frontend apps  
-- REST API integration & best practices  
-
----
 
 ### 📫 Connect
 [LinkedIn](https://www.linkedin.com) • [Gi]()
