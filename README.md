@@ -1,6 +1,6 @@
 <h1 align="center">Hey 👋 I'm Sujit Panda</h1>
 <p align="center">
-Frontend Developer • React • UI Enthusiast 🚀
+Frontend Developer
 </p>
 
 ---
