@@ -1,4 +1,6 @@
-Hi, I’m Sujit Panda 👋
+<h1 align="left">
+  Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" />, I’m Sujit Panda
+</h1>
 
 ## Tech Stack
 
@@ -15,10 +17,10 @@ Hi, I’m Sujit Panda 👋
 ## Connect with Me
 
 <p align="left">
-  <a href="https://github.com/SujitDevl" target="_blank">
+  <a href="https://github.com/SujitDevl">
     <img src="https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/sujit-panda/" target="_blank">
+  <a href="https://www.linkedin.com/in/sujit-panda/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
   </a>
 </p>
